@@ -1,0 +1,57 @@
+body{
+	  background: url(Images/sheep.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif !important;
+}
+
+h1{
+	font-weight:bold !important;
+	color:#000 !important;
+	font-size:3.5em !important;
+	
+}
+
+.btn:focus {
+  outline: none !important;
+}
+
+.btn-info{
+	background:rgb(90,152,199)!important;
+	border-color:rgb(90,152,199)!important;
+}
+
+#quoteButton{
+	margin-top:20px;
+}
+
+header{
+padding-top:50px;
+}
+
+
+
+#generated-quote{	
+	
+	
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:1.5em;
+
+
+}
+
+.quote-container{
+	
+	background: rgba(130,184,226,0.5);
+	border-radius:10px;
+	margin-top:20px;
+}
+
+
+.intro{
+	
+}
+
