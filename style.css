@@ -21,6 +21,9 @@ h1{
 .btn-info{
 	background:rgb(90,152,199)!important;
 	border-color:rgb(90,152,199)!important;
+	font-size:1.3em !important;	
+	
+
 }
 
 #quoteButton{
@@ -50,8 +53,10 @@ padding-top:50px;
 	margin-top:20px;
 }
 
+@media only screen and (max-width : 480px){
+	h3{
+	font-size:1.3em !important;	
+} 
+	}
 
-.intro{
-	
-}
 
